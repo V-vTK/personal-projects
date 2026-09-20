@@ -24,7 +24,7 @@ I manage investments across multiple brokers — some Finnish, some large global
 
 ![Portfolio Dashboard](./.vscode/stockTrack/image.png)
 
-> *Additional screenshots may be added later.*
+> *Additional screenshots may be added later. TODO add redacted pictures!*
 
 ## Technologies Used
 
