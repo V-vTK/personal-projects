@@ -8,7 +8,7 @@ This thesis explores a two-pronged approach to tackle device capacity constraint
 
 ## Background & Motivation
 
-This was a Bachelor's thesis for the **Degree Programme in Computer Science and Engineering** at the **University of Oulu**, completed in May 2025. The thesis investigated how to automatically deduce the ability to test fault-related cases from failure data. Additionally, during the move from Rusko to Linnanmaa, I helped transition the device inventory system and studied how resources should be organized into resource groups.
+This was a Bachelor's thesis for the **Degree Programme in Computer Science and Engineering** at the **University of Oulu**, completed in May 2025. The thesis investigated how to automatically deduce whether we have the devices needed to test fault-related cases. Alongside the LLM research, I built an application that integrates device inventory, fault tickets, test automation, and version control data. During the move from Rusko to Linnanmaa, I helped transition the device inventory system and studied how abstract resources (resource pools) and device permissions should be organized. I also implemented conflict checking to see what was holding up the reservation queue — making it easy to identify blocked topologies and prioritize critical test cases.
 
 ## Features
 
