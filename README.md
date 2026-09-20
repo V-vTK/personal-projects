@@ -35,3 +35,25 @@ Projects are documented individually in their respective Markdown files. Each en
 - Other relevant information
 
 The level of detail varies depending on the project.
+
+## Project Ranking
+
+Rough ranking by overall impressiveness — a mix of complexity, real-world impact, and how much I learned from each.
+
+| # | Project | Why |
+|---|---------|-----|
+| 1 | **trackApp** | *(not yet documented)* |
+| 2 | **stockTrack** | *(not yet documented)* |
+| 3 | **bachelorsThesis** | Fine-tuned LLMs for Nokia, built a full-stack app integrating device inventory + fault tickets + test automation. Thesis submitted to University of Oulu. |
+| 4 | **iotProject** | *(not yet documented)* |
+| 5 | **programmableWebProject** | *(not yet documented)* |
+| 6 | **creativeDesign** | *(not yet documented)* |
+| 7 | **ollamaImage** | *(not yet documented)* |
+| 8 | **distributedSystemsProject** | *(not yet documented)* |
+| 9 | **valueInvestingTemplate** | *(not yet documented)* |
+| 10 | **towardsDataMining** | *(not yet documented)* |
+| 11 | **bigDataProject** | Processed millions of Yelp reviews with PySpark, ran RoBERTa fake review detection on GPU, bootstrap hypothesis testing, graph analytics. Grade 5. |
+| 12 | **socialComputing** | *(not yet documented)* |
+| 13 | **tira** | *(not yet documented)* |
+| 14 | **digitalImageProcessing** | *(not yet documented)* |
+
