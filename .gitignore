@@ -1,1 +1,9 @@
+# Editor files
 /.vscode
+
+# Some notes for writing
+**my_note.md
+
+# Some projects can be documented with AI gitIgnore some reusable scripts and files.
+/.venv 
+/scripts
