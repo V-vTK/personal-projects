@@ -31,9 +31,23 @@ I was juggling multiple apps and tools for different parts of my life — notes,
 
 ## Screenshots
 
-<!-- ![Dashboard](./.vscode/TrackApp/example/image.png) -->
+Here are the main views of the application (data redacted and simulated for privacy):
 
-> *Screenshots may be added later.*
+| Apps | Calendar |
+|---|---|
+| ![Apps](apps.png) | ![Calendar](calendar.png) |
+
+| Expense Tracking | Asset Tracking |
+|---|---|
+| ![Expense Tracking](expenseTrack.png) | ![Asset Tracking](assetTrack.png) |
+
+| Year Tracking |
+|---|
+| ![Year Tracking](yearTrack.png) |
+
+## Architecture & Data Flow
+
+![Architecture & Data Flow Diagram](mermaid_graph.png)
 
 ## Technologies Used
 
