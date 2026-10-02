@@ -22,9 +22,27 @@ I manage investments across multiple brokers — some Finnish, some large global
 
 ## Screenshots
 
-![Portfolio Dashboard](./.vscode/stockTrack/image.png)
+Here are the main views of the application (data redacted for privacy):
 
-> *Additional screenshots may be added later. TODO add redacted pictures!*
+| Dashboard | Overview |
+|---|---|
+| ![Dashboard](dashboard.png) | ![Overview](overview.png) |
+
+| Asset Transactions | Transactions |
+|---|---|
+| ![Asset Transactions](asset_transactions.png) | ![Transactions](transactions.png) |
+
+| Accounts | Assets |
+|---|---|
+| ![Accounts](accounts.png) | ![Assets](assets.png) |
+
+| Performance | Dividends |
+|---|---|
+| ![Asset Transactions](asset_transactions.png) | ![Dividends](dividends.png) |
+
+| Open Allocations | Tax Report |
+|---|---|
+| ![Open Allocations](open_allocations.png) | ![Tax Report](tax_report.png) |
 
 ## Technologies Used
 
