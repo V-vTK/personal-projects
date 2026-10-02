@@ -22,7 +22,7 @@ I manage investments across multiple brokers — some Finnish, some large global
 
 ## Screenshots
 
-Here are the main views of the application (data redacted for privacy):
+Here are the main views of the application (data redacted and simulated for privacy):
 
 | Dashboard | Overview |
 |---|---|
