@@ -42,8 +42,8 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 
 | # | Project | Why |
 |---|---------|-----|
-| 1 | **trackApp** | All-in-one life management platform: notes, calendar, expenses, asset tracking, life scoring, receipt OCR. |
-| 2 | **stockTrack** | Full-stack portfolio tracker with multi-broker support, FIFO tax calculations, Finnish tax PDF export, and CI/CD. |
+| 1 | **stockTrack** | Full-stack portfolio tracker with multi-broker support, FIFO tax calculations, Finnish tax PDF export, and CI/CD. |
+| 2 | **trackApp** | All-in-one life management platform: notes, calendar, expenses, asset tracking, life scoring, receipt OCR. |
 | 3 | **bachelorsThesis** | Fine-tuned LLMs for Nokia, built a full-stack app integrating device inventory + fault tickets + test automation. Thesis submitted to University of Oulu. |
 | 4 | **iotProject** | *(not yet documented)* |
 | 5 | **programmableWebProject** | *(not yet documented)* |
