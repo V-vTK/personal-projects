@@ -38,11 +38,15 @@ Here are the main views of the application (data redacted and simulated for priv
 
 | Performance | Dividends |
 |---|---|
-| ![Asset Transactions](asset_transactions.png) | ![Dividends](dividends.png) |
+| ![Performance](performance.png) | ![Dividends](dividends.png) |
 
 | Open Allocations | Tax Report |
 |---|---|
 | ![Open Allocations](open_allocations.png) | ![Tax Report](tax_report.png) |
+
+## Architecture & Data Flow
+
+![Architecture & Data Flow Diagram](mermaid_graph.png)
 
 ## Technologies Used
 
