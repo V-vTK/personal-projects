@@ -10,22 +10,20 @@ I was juggling multiple apps and tools for different parts of my life — notes,
 
 - **Note Tracking** — Rich-text notes with Jodit editor, color coding, grouping, and execution tracking
 - **Calendar** — Unified calendar view aggregating data from all modules (notes, expenses, life scores, assets, recurring events). Month, week, and day views. Google Calendar integration. Drag-to-create events and recurring event support.
-- **Expense Tracking** — Log and categorize expenses with receipt OCR (PaddleOCR + Ollama). Spreadsheet-style data grid for editing. Receipt image upload with automatic text extraction and AI-powered categorization.
+- **Expense Tracking** — Log and categorize expenses with receipt OCR (PaddleOCR + Ollama). Spreadsheet-style data grid for editing. Receipt image upload with automatic text extraction with AI.
 - **Asset Tracking** — Track assets and balances over time with per-date snapshots and growth visualizations
 - **Income Tracking** — Log income entries with year integration
 - **Life Tracking** — Wheel of Life dashboard with monthly scoring (1–5) across life categories (family, fitness, work, etc.). Yearly goals, weekly todos, improvement tracking, and "Future Me" profile vision.
-- **Year Tracking** — Year-level summaries and notes for each year
+- **Year Tracking** — Year-level summaries for each year
 - **Month Tracking** — Monthly summaries and reviews
 - **Sport Tracking** — Track sports activities and progress
-- **Link Tracking** — Save and organize links with metadata
-- **In Tracking** — General inbox-style tracking
-- **Fin Tracking** — Financial tracking module
+- **Link Tracking** — Save and organize links
 - **Dashboard** — Central landing page with summary cards per module showing key metrics (monthly expenses, asset growth YTD, etc.)
 - **OCR Receipt Scanning** — Docker container running Flask + PaddleOCR + Ollama for automatic receipt parsing and categorization
 - **Receipt PDF Parsing** — Extract data from PDF receipts using pdf-parse
 - **Image Cropping** — Built-in image cropper for receipt photos
-- **Multi-user support** — User registration, authentication, and sharing
-- **CI/CD pipeline** — Automated Docker-based deployment via Jenkins
+- **Multi-user support** — User registration, authentication, and sharing data
+- **CI/CD pipeline** — Automated Docker-based deployment via Jenkins and Github hooks
 - **Test automation** — Selenium-based end-to-end tests running in Docker
 - **AI assistant integration** — Ollama-powered AI features for data analysis and receipt understanding
 
