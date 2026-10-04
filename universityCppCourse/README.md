@@ -143,8 +143,7 @@ A self-contained tutorial covering GNU Make fundamentals:
 
 ## Links
 
-- Original course: [CS 225 — Data Structures and Programming Principles](https://cs225.illinois.edu/), University of Illinois at Urbana-Champaign
-- Adapted for University of Oulu
+- Original course: [CS 225 — Data Structures and Programming Principles](https://courses.grainger.illinois.edu/cs225/fa2026/), University of Illinois at Urbana-Champaign, Adapted for University of Oulu
 
 ## Further Notes
 
