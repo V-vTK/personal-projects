@@ -49,7 +49,7 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 | 5 | **programmableWebProject** | Full-stack budget planner with Kotlin/Spring Boot backend, React + shadcn/ui frontend, Docker Compose deployment with Nginx, and a GDPR auxiliary service. Group project at University of Oulu. |
 | 6 | **ollamaImage** | Custom Ollama Docker image with CUDA 12 compiled for Pascal GTX 1080 Ti, cross-GPU build pipeline, self-hosted registry, deployed on TrueNAS. |
 | 7 | **distributedSystemsProject** | Microservice-based EHR platform: Spring Boot + Kotlin, 3-node Cassandra cluster, gRPC audit logging with protobuf, Flask ML risk detection (Random Forest), Docker Compose + Kubernetes orchestration, role-based auth (ADMIN/STAFF/RESEARCHER). Group project 18/20 |
-| 8 | **valueInvestingTemplate** | *(not yet documented)* |
+| 8 | **valueInvestingTemplate** | Fundamental stock analysis and valuation toolkit featuring Excel-based reporting, DCF and other financial models, AI-powered equity analysis with Gemini, and a CFTC COT commodity dashboard with Discord alerts. Deployed with Docker Compose and automated via Jenkins CI/CD |
 | 9 | **digitalImageProcessing** | DIP coursework covering Fourier/frequency-domain filtering, DCT compression, morphological segmentation, geometric transformations, and image restoration — all in Python. Grade 5|
 | 10 | **bigDataProject** | Processed millions of Yelp reviews with PySpark, ran RoBERTa fake review detection on GPU, graph analytics. Grade 5. |
 | 11 | **socialComputing** | Social Computing coursework: SQL-based social media analysis, LDA topic modelling, VADER sentiment analysis, multi-tier content moderation engine, and a new social feature for the Mini Social Flask platform. Grade 5 |
