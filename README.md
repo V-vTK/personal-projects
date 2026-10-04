@@ -47,13 +47,12 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 | 3 | **bachelorsThesis** | Fine-tuned LLMs for Nokia, built a full-stack app integrating device inventory + fault tickets + test automation. Thesis submitted to University of Oulu. |
 | 4 | **iotProject** | *(not yet documented)* |
 | 5 | **programmableWebProject** | *(not yet documented)* |
-| 6 | **creativeDesign** | *(not yet documented)* |
-| 7 | **ollamaImage** | *(not yet documented)* |
-| 8 | **distributedSystemsProject** | *(not yet documented)* |
-| 9 | **valueInvestingTemplate** | *(not yet documented)* |
-| 10 | **towardsDataMining** | *(not yet documented)* |
-| 11 | **bigDataProject** | Processed millions of Yelp reviews with PySpark, ran RoBERTa fake review detection on GPU, graph analytics. Grade 5. |
-| 12 | **socialComputing** | *(not yet documented)* |
-| 13 | **tira** | *(not yet documented)* |
-| 14 | **digitalImageProcessing** | *(not yet documented)* |
+| 6 | **ollamaImage** | *(not yet documented)* |
+| 7 | **distributedSystemsProject** | *(not yet documented)* |
+| 8 | **valueInvestingTemplate** | *(not yet documented)* |
+| 9 | **towardsDataMining** | *(not yet documented)* |
+| 10 | **bigDataProject** | Processed millions of Yelp reviews with PySpark, ran RoBERTa fake review detection on GPU, graph analytics. Grade 5. |
+| 11 | **socialComputing** | *(not yet documented)* |
+| 12 | **tira** | *(not yet documented)* |
+| 13 | **digitalImageProcessing** | *(not yet documented)* |
 
