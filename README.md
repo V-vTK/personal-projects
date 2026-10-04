@@ -43,12 +43,12 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 | # | Project | Why |
 |---|---------|-----|
 | 1 | **stockTrack** | Full-stack portfolio tracker with multi-broker support, FIFO tax calculations, Finnish tax PDF export, and CI/CD. |
-| 2 | **trackApp** | All-in-one life management platform: notes, calendar, expenses, asset tracking, life scoring, receipt OCR. |
+| 2 | **trackApp** | All-in-one life management platform: notes, calendar, expenses, asset tracking, life scoring, receipt OCR. My fullstack open project. |
 | 3 | **bachelorsThesis** | Fine-tuned LLMs for Nokia, built a full-stack app integrating device inventory + fault tickets + test automation. Thesis submitted to University of Oulu. |
 | 4 | **iotProject** | Full-stack IoT monitoring system: Raspberry Pi Pico W + BMP280 sensor, PocketBase backend, real-time WebSocket graphs, sensor sharing & adoption, automated email alerts, Jenkins CI/CD. |
 | 5 | **programmableWebProject** | Full-stack budget planner with Kotlin/Spring Boot backend, React + shadcn/ui frontend, Docker Compose deployment with Nginx, and a GDPR auxiliary service. Group project at University of Oulu. |
 | 6 | **ollamaImage** | Custom Ollama Docker image with CUDA 12 compiled for Pascal GTX 1080 Ti, cross-GPU build pipeline, self-hosted registry, deployed on TrueNAS. |
-| 7 | **distributedSystemsProject** | *(not yet documented)* |
+| 7 | **distributedSystemsProject** | Microservice-based EHR platform: Spring Boot + Kotlin, 3-node Cassandra cluster, gRPC audit logging with protobuf, Flask ML risk detection (Random Forest), Docker Compose + Kubernetes orchestration, role-based auth (ADMIN/STAFF/RESEARCHER). Group project 18/20 |
 | 8 | **valueInvestingTemplate** | *(not yet documented)* |
 | 9 | **digitalImageProcessing** | DIP coursework covering Fourier/frequency-domain filtering, DCT compression, morphological segmentation, geometric transformations, and image restoration — all in Python. Grade 5|
 | 10 | **bigDataProject** | Processed millions of Yelp reviews with PySpark, ran RoBERTa fake review detection on GPU, graph analytics. Grade 5. |
