@@ -50,7 +50,7 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 | 6 | **ollamaImage** | Custom Ollama Docker image with CUDA 12 compiled for Pascal GTX 1080 Ti, cross-GPU build pipeline, self-hosted registry, deployed on TrueNAS. |
 | 7 | **distributedSystemsProject** | *(not yet documented)* |
 | 8 | **valueInvestingTemplate** | *(not yet documented)* |
-| 9 | **towardsDataMining** | *(not yet documented)* |
+| 9 | **towardsDataMining** | Data mining coursework spanning R, MATLAB, Python, and SQL — data exploration, relational databases (MySQL + SQLite), synthetic data generation, sensor data visualization, sampling techniques, and missing data imputation. |
 | 10 | **bigDataProject** | Processed millions of Yelp reviews with PySpark, ran RoBERTa fake review detection on GPU, graph analytics. Grade 5. |
 | 11 | **socialComputing** | *(not yet documented)* |
 | 12 | **tira** | Java coursework implementing 9 fundamental data structures and algorithms from scratch — insertion sort, binary search, stack, queue, quicksort/mergesort/heapsort, BST, hash table, and graph algorithms (BFS/DFS/Dijkstra) — integrated into a Swing desktop app. Grade 5. |
