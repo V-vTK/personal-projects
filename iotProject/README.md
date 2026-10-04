@@ -89,7 +89,7 @@ Course project for an IoT class. The goal was to build a complete IoT system —
 
 > This was a two-person group project for an IoT course at the University of Oulu. I was responsible for:
 > 
-> - Building the **entire web application** — PocketBase backend, Next.js frontend, ShadCN UI components, Recharts real-time graphs
+> - Building the **web application** — PocketBase backend, Next.js frontend, ShadCN UI components, Recharts real-time graphs
 > - Custom **PocketBase JS hooks** — adoptSensor API, email notifications
 > - **CI/CD pipeline** — Jenkins configuration, Docker Compose setup, Selenium test automation
 > - **Guide page** and documentation for setting up the Raspberry Pi Pico W sensor

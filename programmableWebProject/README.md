@@ -224,3 +224,6 @@ The repository also includes individual course exercises (PWP-Exercises) with Fl
 - **Certificate workflow example** — A client requests a certificate by POSTing to a group's certificate collection (receiving 202). It then listens for a notification on RabbitMQ containing the certificate token. Finally, it uses the token to GET the certificate from the API before it expires.
 - **Resilience** — Hypermedia clients are more resilient to API restructuring because they discover URIs at runtime rather than relying on hardcoded paths.
 
+## Further Notes
+
+This document was created by providing the project repository to an AI. The output was then edited and verified.
