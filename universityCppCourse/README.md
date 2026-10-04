@@ -121,7 +121,7 @@ A self-contained tutorial covering GNU Make fundamentals:
 
 ## Key Takeaways
 
-- Mastered C++ features: templates, inheritance, virtual functions, pure virtual classes, virtual destructors, operator overloading, and the Rule of Three
+- Learned C++ features: templates, inheritance, virtual functions, pure virtual classes, virtual destructors, operator overloading, and the Rule of Three
 - Implemented **four data structures from scratch**: singly-linked list, doubly-linked list, separate chaining hash table, and linear probing hash table
 - Built a **merge sort** implementation on a linked list structure
 - Debugged real memory bugs using **GDB** and **Address Sanitizer** — uninitialized pointers, shallow copies, array/delete mismatches, object slicing
