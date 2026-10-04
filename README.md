@@ -45,7 +45,7 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 | 1 | **stockTrack** | Full-stack portfolio tracker with multi-broker support, FIFO tax calculations, Finnish tax PDF export, and CI/CD. |
 | 2 | **trackApp** | All-in-one life management platform: notes, calendar, expenses, asset tracking, life scoring, receipt OCR. |
 | 3 | **bachelorsThesis** | Fine-tuned LLMs for Nokia, built a full-stack app integrating device inventory + fault tickets + test automation. Thesis submitted to University of Oulu. |
-| 4 | **iotProject** | *(not yet documented)* |
+| 4 | **iotProject** | Full-stack IoT monitoring system: Raspberry Pi Pico W + BMP280 sensor, PocketBase backend, real-time WebSocket graphs, sensor sharing & adoption, automated email alerts, Jenkins CI/CD. |
 | 5 | **programmableWebProject** | *(not yet documented)* |
 | 6 | **ollamaImage** | *(not yet documented)* |
 | 7 | **distributedSystemsProject** | *(not yet documented)* |
