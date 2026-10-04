@@ -46,7 +46,7 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 | 2 | **trackApp** | All-in-one life management platform: notes, calendar, expenses, asset tracking, life scoring, receipt OCR. |
 | 3 | **bachelorsThesis** | Fine-tuned LLMs for Nokia, built a full-stack app integrating device inventory + fault tickets + test automation. Thesis submitted to University of Oulu. |
 | 4 | **iotProject** | Full-stack IoT monitoring system: Raspberry Pi Pico W + BMP280 sensor, PocketBase backend, real-time WebSocket graphs, sensor sharing & adoption, automated email alerts, Jenkins CI/CD. |
-| 5 | **programmableWebProject** | *(not yet documented)* |
+| 5 | **programmableWebProject** | Full-stack budget planner with Kotlin/Spring Boot backend, React + shadcn/ui frontend, Docker Compose deployment with Nginx, and a GDPR auxiliary service. Group project at University of Oulu. |
 | 6 | **ollamaImage** | Custom Ollama Docker image with CUDA 12 compiled for Pascal GTX 1080 Ti, cross-GPU build pipeline, self-hosted registry, deployed on TrueNAS. |
 | 7 | **distributedSystemsProject** | *(not yet documented)* |
 | 8 | **valueInvestingTemplate** | *(not yet documented)* |
