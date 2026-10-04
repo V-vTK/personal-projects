@@ -1,33 +1,33 @@
 # Personal Projects
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td><img src="./stockTrack/dashboard.png" alt="Dashboard" width="320"/></td>
-    <td><img src="./trackApp/yearTrack.png" alt="Year Track" width="320"/></td>
+    <td style="width: 50%;"><img src="./stockTrack/dashboard.png" alt="Dashboard" style="width: 100%;"/></td>
+    <td style="width: 50%;"><img src="./trackApp/yearTrack.png" alt="Year Track" style="width: 100%;"/></td>
   </tr>
   <tr>
     <td align="center"><sub>stockTrack - Dashboard</sub></td>
     <td align="center"><sub>trackApp - Year Tracking</sub></td>
   </tr>
   <tr>
-    <td><img src="./stockTrack/overview.png" alt="Overview" width="320"/></td>
-    <td><img src="./stockTrack/assets.png" alt="Assets" width="320"/></td>
+    <td><img src="./stockTrack/overview.png" alt="Overview" style="width: 100%;"/></td>
+    <td><img src="./stockTrack/assets.png" alt="Assets" style="width: 100%;"/></td>
   </tr>
   <tr>
     <td align="center"><sub>stockTrack - Overview</sub></td>
     <td align="center"><sub>stockTrack - Assets</sub></td>
   </tr>
   <tr>
-    <td><img src="./iotProject/Architecture.svg" alt="IoT Architecture" width="320"/></td>
-    <td><img src="./bachelorsThesis/image-4.png" alt="Bachelor's Thesis" width="320"/></td>
+    <td><img src="./iotProject/Architecture.svg" alt="IoT Architecture" style="width: 100%;"/></td>
+    <td><img src="./bachelorsThesis/image-4.png" alt="Bachelor's Thesis" style="width: 100%;"/></td>
   </tr>
   <tr>
     <td align="center"><sub>IoT Project - Architecture</sub></td>
     <td align="center"><sub>Bachelor's Thesis - dataflow</sub></td>
   </tr>
   <tr>
-    <td><img src="./digitalImageProcessing/extraction.png" alt="Image Extraction" width="320"/></td>
-    <td><img src="./digitalImageProcessing/geometric_transformation2.png" alt="Geometric Transformation" width="320"/></td>
+    <td><img src="./digitalImageProcessing/extraction.png" alt="Image Extraction" style="width: 100%;"/></td>
+    <td><img src="./digitalImageProcessing/geometric_transformation2.png" alt="Geometric Transformation" style="width: 100%;"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Digital Image Processing - Extraction</sub></td>
