@@ -54,5 +54,5 @@ Rough ranking by overall impressiveness — a mix of complexity, real-world impa
 | 10 | **bigDataProject** | Processed millions of Yelp reviews with PySpark, ran RoBERTa fake review detection on GPU, graph analytics. Grade 5. |
 | 11 | **socialComputing** | *(not yet documented)* |
 | 12 | **tira** | *(not yet documented)* |
-| 13 | **digitalImageProcessing** | *(not yet documented)* |
+| 13 | **digitalImageProcessing** | DIP coursework covering Fourier/frequency-domain filtering, DCT compression, morphological segmentation, geometric transformations, and image restoration — all in Python. Grade 5|
 
